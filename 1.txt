@@ -1,2 +1,3 @@
 This is new repositry
-This is the seconde line 
+This is the seconde line
+this is the threed line 
